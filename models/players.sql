@@ -1,0 +1,1 @@
+SELECT * FROM EXTERNAL_QUERY("footballanalytics.eu.enskai_data", "SELECT * FROM wyscout.players;")
